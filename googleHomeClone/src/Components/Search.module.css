@@ -1,0 +1,30 @@
+.iput {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 700px;
+  height: 48px;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+input {
+  width: 50%;
+  border: none;
+  font-size: 16px;
+  outline: none;
+  margin-left: -210px;
+}
+.icon {
+  font-size: 19px;
+  color: grey;
+  margin-left: 19px;
+}
+.icon2 {
+  font-size: 19px;
+  color: grey;
+  margin-right: 20px;
+}
+.icon3 {
+  margin-right: 10px;
+}
